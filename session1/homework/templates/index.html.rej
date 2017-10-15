@@ -1,0 +1,51 @@
+diff a/session1/homework/templates/index.html b/session1/homework/templates/index.html	(rejected hunks)
+@@ -1,49 +0,0 @@
+-<!DOCTYPE html>
+-<html>
+-  <head>
+-    <meta charset="utf-8">
+-    <title>đây chính là tiêu đề</title>
+-  </head>
+-  <body>
+-    <h1>Hello.This is Heading</h1>
+-    <p> This is a paragrap. This text contains<br>a line break. </p>
+-
+-    <img src="http://media.phapluatplus.vn/files/lucyen/2016/09/09/thd13-0018.jpg" alt="Mỹ nhân cổ trang">
+-    <img src="https://scontent.fhan1-1.fna.fbcdn.net/v/t1.0-9/22406030_1299943180127835_410538844444350683_n.jpg?oh=03550a1e4bacbf646e1c02b620f243a3&oe=5A7A6E3D" alt="Girl xinh">
+-    <img src="https://scontent.fhan1-1.fna.fbcdn.net/v/t1.0-9/22449659_1301481529974000_7802061093695210241_n.jpg?oh=62000c7e53bfed88ba86b1d87d96bfd1&oe=5A778AF1" alt="Girl xinh 2">
+-    <img src="https://scontent.fhan1-1.fna.fbcdn.net/v/t31.0-8/22424605_1302222233233263_2862429944366053780_o.jpg?oh=4bf683383196911f66fda4f5d35b29c6&oe=5A3BB051" alt="Girl xinh 3">
+-
+-
+-    <p></p>
+-    <a target="_blank" href="https://www.facebook.com/girlsfromasiatoeurope/"> Click vào đây để xem nhiều hơn... </a>
+-    <p></p>
+-    <a href="/h2"> Vào trang h2 </a>
+-
+-        <table>
+-      <tr>
+-        <th>Month</th>
+-        <th>Savings</th>
+-      </tr>
+-      <tr>
+-        <td>January</td>
+-        <td>$100</td>
+-      </tr>
+-    </table>
+-
+-    <h4>An CheckList to quit a job:</h4>
+-    <ul>
+-      <li>The munite of contract</li>
+-      <li>The munite of property and tools</li>
+-      <li>The munite of secret infomation</li>
+-    </ul>
+-
+-
+-    <div style="color:#0000FF">
+-      <h3>This is a small heading</h3>
+-      <p>This is a small paragraph.</p>
+-    </div>
+-
+-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+-
+-  </body>
+-</html>

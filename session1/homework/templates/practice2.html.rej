@@ -1,0 +1,39 @@
+diff a/session1/homework/templates/practice2.html b/session1/homework/templates/practice2.html	(rejected hunks)
+@@ -0,0 +1,37 @@
++<!DOCTYPE html>
++<html>
++
++<style>
++h1{
++  margin-top:0;
++  margin-bottom:0;
++  padding:0;
++  border-bottom: 1px solid black;
++}
++ol,ul {
++  padding-left: 20px;
++}
++</style>
++
++  <head>
++    <meta charset="utf-8">
++    <title>Practicle Excercise 2</title>
++  </head>
++
++  <body>
++    <h1>Những án thơ tuổi học trò</h1>
++    <ul style="list-style-type:disc">
++    	<li>Dòng lưu bút</li>
++    	<li>Tình bạn học</li>
++      <li>Giã từ áo trắng thơ ngây</li>
++      <li>Nhớ tuổi học trò</li>
++    </ul>
++    <h1>Tác giả</h1>
++    <ol class="1">
++    	<li>Quốc Phương</li>
++    	<li>Nguyễn Thi Liên</li>
++      <li>Huyền Thư</li>
++      <li>Đỗ Thị Kim Hoa</li>
++    </ol>
++  </body>
++</html>
